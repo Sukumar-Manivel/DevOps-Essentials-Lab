@@ -1,0 +1,4 @@
+Dashboard Feature
+
+This feature demonstrates the application dashboard.
+It displays application statistics and important information.
